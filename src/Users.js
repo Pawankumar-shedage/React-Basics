@@ -4,9 +4,7 @@
 export function Users()
 {
     return(
-        <h1>Users here
-            Gh
-        </h1>
+        <h1>Users here  {200*100}</h1>
     );
 }
 
